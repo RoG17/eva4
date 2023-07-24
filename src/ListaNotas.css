@@ -1,0 +1,12 @@
+body {
+    background-image: url("/src/pizarra.png");
+    background-size: cover;
+}
+
+.titulo {
+    color: #fff;
+}
+
+.check-form {
+    color: #fff;
+}

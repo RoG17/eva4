@@ -1,0 +1,25 @@
+.notas {
+    position: relative;
+}
+
+.note-image {
+    width: 395px;
+    top: 15px;
+    margin: 0;
+    padding: 2px;
+    height: 321px;
+    left: 25px;
+}
+
+.note-content {
+    justify-content: center;
+    position: absolute;
+    top: 75px;
+    left: 70px;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    padding: 2px;
+    width: 395px;
+}
